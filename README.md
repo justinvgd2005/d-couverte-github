@@ -11,8 +11,11 @@ faire des cœurs
 - *Polyvalent* : pratique pour
 - les notes,
 - les articles,
+<<<<<<< HEAD
 - les rapports et les viandes
+=======
 - les rapports et les analyses. 
+>>>>>>> 0a59cd230cea73e0f95a92959fb46fc7a0ffe377
 - la documentation.
 - *Facile à convertir* : peut être exporté en HTML, PDF, Word et d’autres formats.
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
