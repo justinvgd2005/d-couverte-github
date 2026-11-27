@@ -12,6 +12,7 @@ faire des cœurs
 - les notes,
 - les articles,
 - les rapports et les viandes
+- les rapports et les analyses. 
 - la documentation.
 - *Facile à convertir* : peut être exporté en HTML, PDF, Word et d’autres formats.
 - *Compatible* avec de nombreux éditeurs de texte et utilisable sur différentes plateformes.
